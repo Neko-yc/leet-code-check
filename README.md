@@ -1,4 +1,4 @@
-#leetcode 题目进度记录(2022.5.26更新)  
+#leetcode 题目进度记录(2022.5.25更新)  
 ![](https://github.com/Neko-yc/leet-code-check/blob/main/images/newleetcode.png)  
 ![](https://github.com/Neko-yc/leet-code-check/blob/main/images/newleetcode2.png)  
 
